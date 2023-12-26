@@ -7,7 +7,7 @@
  * Rest operator
  * Spread Operator
  * if else
- * ternary  Operator
+ * ternary Operator
  * using && and ||
  * Optional Chaining
  * map, filter, reduce, sort

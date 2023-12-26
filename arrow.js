@@ -32,7 +32,7 @@ person();
 
 // Arrow function Basic structure
 // step1: () => {}
-// step2: const arrowFunction = () =>{}
+// step2: const arrowFunction = () => {}
 
 
 const addTwo = (num1, num2) => {
