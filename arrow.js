@@ -11,24 +11,24 @@ user.welcomeMessage()
 
 console.log(this);
 
-// function Person(){
-//     console.log(this);
-// }
-// Person()
+function Person(){
+    console.log(this);
+}
+Person()
 
-// const  person = function(){
-//     let usename = "Digvijay";
-//     console.log(this.username);
-// }
-// person();
+const  person = function(){
+    let usename = "Digvijay";
+    console.log(this.username);
+}
+person();
 
-const  person = () => {
+const  person1 = () => {
     let usename = "Digvijay";
     console.log(this.username);
     console.log(usename);
     console.log(this);
 }
-person();
+person1();
 
 // Arrow function Basic structure
 // step1: () => {}
