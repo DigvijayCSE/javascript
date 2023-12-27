@@ -103,6 +103,8 @@ const user12 =  {
     city : 'Bangalore',
     pincode:560068,
     phone:8088109615
+
+    
 }
 
 const {name, pincode} = user12;
