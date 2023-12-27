@@ -101,7 +101,8 @@ console.log(sum1(2, 4, 3))
 const user12 =  {
     name :'Digvijay',
     city : 'Bangalore',
-    pincode:560068
+    pincode:560068,
+    phone:8088109615
 }
 
 const {name, pincode} = user12;
